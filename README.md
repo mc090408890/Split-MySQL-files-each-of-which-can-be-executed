@@ -1,7 +1,5 @@
 # MySQL Dump Splitter
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/commits/main)
 
 ## Overview
 
@@ -69,10 +67,9 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 If you have any questions or need assistance, feel free to open an issue on GitHub.
-
----
+You can contact
+mianannum20@gmail.com
